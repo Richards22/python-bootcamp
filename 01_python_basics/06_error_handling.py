@@ -1,6 +1,6 @@
 import requests
 
-url = "https://jsonplaceholder.typicode.com/this-endpoint-does-not-exist"
+url = "https://jsonplaceholder.typicode.com/posts"
 
 data ={
     "title": "Error Handling",
