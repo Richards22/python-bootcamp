@@ -1,5 +1,5 @@
 business_name,monthly_revenue,requested_loan,ratio,screening_category
-ABC Electronics,5000,15000,3.0,Moderate Ratio
-Bright Foods,8000,12000,1.5,Lower Ratio
+ABC Electronics,5000.0,15000.0,3.0,Moderate Ratio
+Bright Foods,aaa,12000,,Needs Review
 New Startup,0,10000,,Needs Review
-Green Farms,12000,24000,2.0,Lower Ratio
+Green Farms,12000.0,24000.0,2.0,Lower Ratio
